@@ -6,7 +6,7 @@
 - 😄 Pronouns: **All/in**
 - ⚡ Now working on: **1. Trading indicator page** **2. X-Ray chest analyzer page 3. Selenium projects - just for practice :)**
 - 👨🏻‍💻 Working for: **Nokia Corporation**
-- 💆‍♀️ In free time: **I love to be active!**
+- 💆‍♀️ In free time: **I love to be active and travel!**
 
 <!---
 ssuwada/ssuwada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
